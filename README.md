@@ -8,3 +8,4 @@ docker([laradock](https://laradock.io/))
 
 # 参考にしたもの
 [Docker環境でLaravelを構築するまで、わずか15分。](https://qiita.com/hosono/items/dd404f3f074722ef989d)
+[Laradock で mysql がうまく動作しない時は ( mysqlコンテナが起動しない、migration 出来ない）](https://qiita.com/don-bu-rakko/items/cd8f96cc9087abf601e3)
